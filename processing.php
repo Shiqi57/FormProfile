@@ -11,5 +11,7 @@ if(!isset($_POST["acceptTerms"])){
 	if($_POST["acceptTerms"] == "on"){
 		echo("they accepted");
 	}
+
 }
+
 ?>
